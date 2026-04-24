@@ -1,4 +1,4 @@
-  name: Minha Primeira Automacao # Nome que aparecerá no GitHub
+name: Minha Primeira Automacao # Nome que aparecerá no GitHub
 on: # O Gatilho (Quando deve rodar)
   push: # Sempre que houver um novo envio
     branches: [ main ] # Apenas na branch principal
